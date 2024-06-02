@@ -70,3 +70,8 @@ img {
   object-fit: cover;
   margin: 0 auto;
 }
+nav.navbar {
+  display: flex;
+  justify-content: left;
+  gap: 5px;
+}
